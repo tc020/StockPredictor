@@ -19,3 +19,4 @@ __pycache__/
 /CrimeMap_venv/
 /datasets/
 /AutogluonModels/
+*.csv
