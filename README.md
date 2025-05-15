@@ -1,3 +1,3 @@
-# Crime Map
+# Stock Predictor
 
-A heat map showing the burglary rates in German cities, based on the data set of the annually published police crime statistics included with a future prediction model.
+Little app, which predicts the stocks of a bundle of brands for the next 20 Weeks. 
