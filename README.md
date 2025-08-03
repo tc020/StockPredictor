@@ -52,4 +52,10 @@
 
 ├── README.md              &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; # Diese Datei
 
+---
+
+## ⏱️ Coding Zeit (Gemessen mit WakaTime)
+
+![Profit Prophet](https://img.shields.io/badge/Profit%20Prophet-51h%2043m-blue)
+
 
