@@ -7,7 +7,7 @@
 ## 🔍 Features
 
 - 🔄 **Täglicher Datenimport**: Automatischer Download aktueller Aktienkurse von Kaggle
-- 🔮 **KI-gestützte Prognosen**: Vorhersage zukünftiger Aktienkurse mit AutoGluon
+- 🔮 **KI-gestützte Prognosen**: Vorhersage zukünftiger Aktienkurse mit Chronos
 - 📊 **Interaktive Visualisierungen**: Prognoseplots für die ausgewählte Marke
 - 🧠 **Wissensgraph-Integration**: Unternehmensdaten via Wikidata (Gewinn, Umsatz, Gründungsjahr etc.)
 - 🌐 **Web-Oberfläche mit Gradio**: Benutzerfreundliches, interaktives Dashboard
