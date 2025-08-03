@@ -34,7 +34,7 @@
 
 ├── dev/    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# Entwicklungsschritte
 
-&emsp;&emsp;└── chronos_test.ipynb   &emsp;&emsp;&emsp;&emsp;# Testläufe mit Chronos. Ersten Schritte, verschiedene Datensätze & Konfigurationen
+&emsp;&emsp;└── chronos_test.ipynb   &emsp;&emsp;&emsp;&emsp;# Ersten Schritte, verschiedene Datensätze & Konfigurationen mit Chronos
 
 &emsp;&emsp;└── evaluation.ipynb   &emsp;&emsp;&emsp;&emsp;&emsp;# Evaluierung der Vorhersagen mit dem Frozen-Dataset vom 21.05.2025 
 
