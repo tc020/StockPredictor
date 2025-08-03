@@ -15,23 +15,41 @@
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Technologieneinsatz
 
 | Komponente        | Funktion                                    |
 |-------------------|---------------------------------------------|
 | [Gradio](https://gradio.app/)         | Interaktive Benutzeroberfläche          |
 | [AutoGluon](https://auto.gluon.ai/)   | Zeitreihenmodellierung & Prognose       |
 | [KaggleHub](https://github.com/aliasOfKunal/kagglehub)         | Datendownload von Kaggle                |
-| [SPARQLWrapper](https://rdflib.github.io/sparqlwrapper/) | Abfrage von Unternehmensdaten über Wikidata |
+| [SPARQLWrapper](https://people.wikimedia.org/~bearloga/notes/wdqs-python.html) | Abfrage von Unternehmensdaten über Wikidata |
 | Pandas, NumPy, PIL | Datenanalyse, Visualisierung & Bildverarbeitung |
 
 ---
 
 ## 📁 Projektstruktur
-├── app.py                  # Hauptprogramm
+├── user-interface.ipynb    &emsp;&emsp;&emsp;&emsp;&emsp; # Hauptprogramm
 
-├── images/                 # UI-Bilder (Header etc.)
+├── images/    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# UI-Bilder (Header etc.)
 
-├── requirements.txt        # Abhängigkeiten
+├── dev/    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# Entwicklungsschritte
 
-├── README.md               # Diese Datei
+&emsp;&emsp;└── chronos_test.ipynb   &emsp;&emsp;&emsp;&emsp;# Testläufe mit Chronos. Ersten Schritte, verschiedene Datensätze & Konfigurationen
+
+&emsp;&emsp;└── evaluation.ipynb   &emsp;&emsp;&emsp;&emsp;&emsp;# Evaluierung der Vorhersagen mit dem Frozen-Dataset vom 21.05.2025 
+
+&emsp;&emsp;└── model-tests.ipynb    &emsp;&emsp;&emsp;&emsp;# Testläufe mit dem Laden von Fine-Tuning-Modellen
+
+&emsp;&emsp;└── preprocessing_data.ipynb   &emsp;# Vorbereitung der Daten aus der Excel für Chronos
+
+&emsp;&emsp;└── mockup_demo.ipynb    &emsp;&emsp;&emsp;# Funktionsloses Anschauungsbeispiel des UI über Gradio
+
+&emsp;&emsp;└── google-test.ipynb    &emsp;&emsp;&emsp;&emsp;# Beispielbild für das Mockup
+
+&emsp;&emsp;└── wissensgraph.ipynb  &emsp;&emsp;&emsp;# SPARQL und Wikidata
+
+&emsp;&emsp;└── prototype.ipynb    &emsp;&emsp;&emsp;&emsp;&emsp;# Erster Versuch die Daten aus dem Preprocessing dem Modell zu füttern
+
+├── README.md              &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; # Diese Datei
+
+
