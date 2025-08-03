@@ -54,6 +54,6 @@
 
 ---
 
-## ⏱️ Investierte Arbeitszeit
+## ⏱️ Coding Zeit
 
 ![Profit Prophet](https://img.shields.io/badge/Profit%20Prophet-51h%2043m-blue)
