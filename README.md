@@ -1,4 +1,4 @@
-# 📈 Profit Prophet – Aktienprognosen & Unternehmensanalyse mit KI
+# 📈 Profit Prophet – Aktienprognosen mit Chronos
 
 **Profit Prophet** ist eine interaktive Webanwendung zur Vorhersage von Aktienkursen und zur Anzeige von Unternehmenskennzahlen. Die App kombiniert KI-basierte Zeitreihenprognosen mit Echtzeit-Datenimport von **Kaggle** und Unternehmensinformationen aus **Wikidata**. Die Benutzeroberfläche wird mit **Gradio** bereitgestellt.
 
