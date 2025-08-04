@@ -54,8 +54,11 @@
 
 ---
 
-## ⏱️ Coding Zeit (Gemessen mit WakaTime)
+## 📊 Projekt-Metriken (Gemessen mit WakaTime)
 
-![Profit Prophet](https://img.shields.io/badge/Profit%20Prophet-51h%2043m-blue)
+![Python](https://img.shields.io/badge/Code-Python-blue)
+![Coding Zeit](https://img.shields.io/badge/Coding%20Zeit-53h%2051m-blue)
 
+![Start](https://img.shields.io/badge/Start-06.05.2025-darkgreen)
+![Ende](https://img.shields.io/badge/Ende-03.08.2025-darkred)
 
