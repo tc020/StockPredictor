@@ -54,7 +54,7 @@
 
 ---
 
-## 📊 Projekt-Metriken (Gemessen mit WakaTime)
+## 📊 Projekt-Metriken (WakaTime)
 
 ![Python](https://img.shields.io/badge/Code-Python-blue)
 ![Coding Zeit](https://img.shields.io/badge/Coding%20Zeit-53h%2051m-blue)
