@@ -61,4 +61,5 @@
 
 ![Start](https://img.shields.io/badge/Start-06.05.2025-darkgreen)
 ![Ende](https://img.shields.io/badge/Ende-03.08.2025-darkred)
+(Projekt für das Sommersemester 2025) 
 
