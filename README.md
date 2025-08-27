@@ -21,7 +21,7 @@
 |-------------------|---------------------------------------------|
 | [Gradio](https://gradio.app/)         | Interaktive Benutzeroberfläche          |
 | [AutoGluon](https://auto.gluon.ai/)   | Zeitreihenmodellierung & Prognose       |
-| [KaggleHub](https://github.com/aliasOfKunal/kagglehub)         | Datendownload von Kaggle                |
+| [KaggleHub](https://github.com/aliasOfKunal/kagglehub)         | Aktueller Datensatz mit Kaggle-API             |
 | [SPARQLWrapper](https://people.wikimedia.org/~bearloga/notes/wdqs-python.html) | Abfrage von Unternehmensdaten über Wikidata |
 | Pandas, NumPy, PIL | Datenanalyse, Visualisierung & Bildverarbeitung |
 
@@ -57,7 +57,7 @@
 ## 📊 Projekt-Metriken (WakaTime)
 
 ![Python](https://img.shields.io/badge/Code-Python-blue)
-![Coding Zeit](https://img.shields.io/badge/Coding%20Zeit-53h%2051m-blue)
+![Coding Zeit](https://img.shields.io/badge/Coding%20Zeit-73h%2051m-blue)
 
 ![Start](https://img.shields.io/badge/Start-06.05.2025-darkgreen)
 ![Ende](https://img.shields.io/badge/Ende-03.08.2025-darkred)
